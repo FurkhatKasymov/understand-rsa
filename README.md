@@ -1,0 +1,1 @@
+While I was in my journey of self paced learning of math, i got sufficient level of Number Theory knowledge that allowed me understand all math behind RSA protocol, so i decided to share my knowledge with my colleges and give a lecture. I wrote this set of scripts to help me in presenting my lecture.
