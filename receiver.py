@@ -18,6 +18,6 @@ print('e:', e)
 print('n:', n)
 
 encrypted = int(input('Enter encrypted message:'))
-decoded = raise_with_modulo(encrypted, d, n)
+decrypted = raise_with_modulo(encrypted, d, n)
 
-print('The message is:', number_to_word(decoded))
+print('The message is:', number_to_word(decrypted))
